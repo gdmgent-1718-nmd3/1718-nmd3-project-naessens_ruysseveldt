@@ -6,3 +6,7 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+<div class="container">
+    <img src="{{ site.baseurl }}/images/ScreenDesignSmartphone.jpg" alt="Screen Design Smartphone" width="100%">
+</div>
