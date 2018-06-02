@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - KAAT NAESSENS
+ - LAURA RUYSSEVELDT
 
 > Artevelde University College Ghent
 

@@ -4,3 +4,15 @@
 
 @import
   "app/main";
+  @import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+.nav-link{
+  color: #ecb00f;
+  font-family: "Quicksand"; 
+}
+
+#h1{
+  font-family: "Quicksand";
+  font-style: oblique;
+  color:  #e94e1b;
+}
