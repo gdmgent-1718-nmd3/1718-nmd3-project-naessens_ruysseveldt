@@ -23,5 +23,5 @@ Gekozen Museum
 - MAS Antwerpen
 
 <div class="container">
-    <img src="{{ site.baseurl }}/images/Boot.jpg" alt="Boot met profielfoto" width="100%">
+    <img src="{{ site.baseurl }}/images/IMG_1.jpg" alt="Boot met profielfoto" width="100%">
 </div>

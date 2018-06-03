@@ -36,7 +36,7 @@ title: Analyse
                  </li>
              </ul>
  
- De smartphone en smartwatch zijn verbonden met elkaar. De resultaten kunnnen op beide bekeken worden. Zowel op de smartwatch als op de smartphone verschijnen de figuurtjes. Tijdens het horen van de informatie, zie je het figuurtje mee bewegen zodat het lijkt of deze tot leven komt. Deze geeft je informatie. <br> Door het ingeven van een code die je in het museum krijgt, kunnen leerlingen en leerkrachten zich aanmelden op hetzelfde platform. Leekrachten kunnen hierdoor ook toegang krijgen tot de resultaten van hun leerlingen. </p>
+ <p> De smartphone en smartwatch zijn verbonden met elkaar. De resultaten kunnnen op beide bekeken worden. Zowel op de smartwatch als op de smartphone verschijnen de figuurtjes. Tijdens het horen van de informatie, zie je het figuurtje mee bewegen zodat het lijkt of deze tot leven komt. Deze geeft je informatie. <br> Door het ingeven van een code die je in het museum krijgt, kunnen leerlingen en leerkrachten zich aanmelden op hetzelfde platform. Leekrachten kunnen hierdoor ook toegang krijgen tot de resultaten van hun leerlingen. </p>
             
 </div>
 

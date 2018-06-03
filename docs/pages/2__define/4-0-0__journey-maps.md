@@ -7,15 +7,14 @@ published: true
 title: Journey Maps
 ---
 <div class="container">
-    <h2> Journey Maps </h2>
-        <div class="col-12"> </div>
-            <p> <b> Persoon 1: Rik Mathijs </b> <br>
-            Leeftijd: 30 jaar <br>
+    <img src="{{ site.baseurl }}/images/leerkracht.jpg" alt="Leerkracht" width="100%" >
+            <h4>Persoon 1: Rik Mathijs </h4> <br>
+            <p>Leeftijd: 30 jaar <br>
             Beroep: leekracht <br>
             Familie: In relatie <br>
             Hobby’s en interesse: tennis, milieuactivist <br>
             Woonplaats: Sint-Amandsberg <br>
-            Digitaal profiel:
+            <h5><div class="highlight"> Digitaal profiel:</div></h5>
                 <ul>
                     <li> Smartschool </li>
                     <li> Decathlon </li>
@@ -24,16 +23,15 @@ title: Journey Maps
                     <li> WhatsApp </li>
                     <li> Skype </li>
                     <li> Greenpeace </li>
-                </ul> 
-            Toestellen: 
+                </ul>
+            <div class="highlight"> Toestellen: </div>
                 <ul>
                     <li> Smartwatch </li>
                     <li> Smartphone </li>
                     <li> Desktop computer </li>
                     <li> Tablet </li>
                 </ul> 
-
-            Lijst van taken/frustraties/algemene vragen/skill-level:
+            <div class="highlight"> Lijst van taken/frustraties/algemene vragen/skill-level: </div>
                 <ul>
                     <li> Veel verbeterwerk </li>
                     <li> Kijkt veel op smartschool (berichten, documenten,…) </li>
@@ -49,68 +47,62 @@ title: Journey Maps
                     <li> Hij houdt van de natuur en het buitenleven. Hij wilt niet teveel tijd verdoen op het internet. </li>
                     <li> Gebruiksgemak op websites is heel belangrijk.</li>
                 </ul>
- 
-            Houdingen en overtuigingen:
+            <div class="highlight"> Houdingen en overtuigingen: </div>
                 <ul>
                     <li> Geen liefhebber van sociale media. Hij gebruikt het alleen maar om makkelijk te kunnen communiceren met anderen. </li>
                     <li> Hij vind het niet goed dat leerlingen zoveel tijd spenderen op hun gsm. Het is belangrijk voor hem dat ze met elkaar praten en sociaal zijn. </li>
                 </ul>
- 
-            Scenario:  
+            <h5><div class="highlight"> Scenario: </div></h5>
                 <ul>
                     <il> Ik wil mij inloggen als leerkracht op de app. Hiervoor moet ik mijn code ingeven. Vervolgens krijg ik  een overzicht met alle namen van de studenten. Hiernaast verschijnt hun score.
                     </il>
                 </ul>
- 
- 
-            Beleving <br>
-            De fase <br>
-              	
-            Acties/taken:
+            <div class="highlight"> Acties/taken:</div>
                 <ul>
                     <il> Moet ervoor zorgen dat alle leerlingen kunnen inloggen. </il>
                     <il> Controleert dat iedereen bezig is met de opdracht in het museum. </il>
                 </ul>
- 
-            Gedachten
+            <div class="highlight">  Gedachten </div>
                 <ul>
                     <li> Vindt iedereen de opdracht leuk? </li>
                 </ul>
- 
-            Instelling en emoties
+            <div class="highlight"> Instelling en emoties </div>
                 <ul> 
-                    <il> Met de app wordt het museumbezoek een leuke en leerrijke ervaring. 
+                    <il> Ik wil dat mijn leerlingen niet zo negatief staan tegenover museums en leren. </il>
+                    <il> Hij geeft veel om zijn leerlingen.</il>
                 </ul>
- 
-            Inzichten <br>
-            Opportuniteiten <br>
- 
-            Pijnpunten <br>
-            
-        <b> Persoon 1: Margo De Koeck </b> <br>
+           <div class="highlight">  Opportuniteiten </div>
+                <ul> 
+                    <il> Een interactieve app kan het museumbezoek leuker maken. </il>
+                </ul>
+            <div class="highlight"> Pijnpunten </div>
+                <ul> 
+                    <il> De thema's in het museum zijn interessant maar geldt dit ook voor de kinderen? </il>
+                    <il> Er is teveel informatie op bordjes bij de verschillende collecties </il>
+                </ul>
+        <img src="{{ site.baseurl }}/images/meisje.jpg" alt="meisje" width="100%">
+        <h4> Persoon 1: Margo De Koeck </h4><br>
         Leeftijd: 12 jaar <br>
         Beroep: student <br>
         Familie: 1 oudere broer <br>
         Hobby’s en interesse: zwemmen,dansen en afspreken met haar vriendinnen <br>
         Woonplaats: Kluisbergen <br>
-        Digitaal profiel:
+        <h5><div class="highlight"> Digitaal profiel:</div></h5>
             <ul>
                 <li> Facebook </li>
                 <li> Spele.be </li>
                 <li> Youtube </li>
-
                 <li> Candy Crush </li>
                 <li> Snapchat </li>
                 <li> VSCO (foto-bewerking) </li>
             </ul>
-        Toestellen:
+        <div class="highlight"> Toestellen: </div>
             <ul>
                 <li> Tablet </li>
                 <li> Desktop computer </li>
                 <li> Smartphone </li>
             </ul>
-
-        Lijst van taken/frustraties/algemene vragen/skill-level:
+        <div class="highlight"> Lijst van taken/frustraties/algemene vragen/skill-level: </div>
             <ul>
                 <li> Maakt veel gebruik van sociale media </li>
                 <li> Chatten met vriendinnen </li>
@@ -118,39 +110,33 @@ title: Journey Maps
                 <li> Computer zit snel vol door de vele bestanden die ze download. </li> <br>
                 <li> Goed op de hoogte van de digitale snufjes </li>
             </ul>
-
-        Houdingen en overtuigingen:
+        <div class="highlight"> Houdingen en overtuigingen: </div>
             <ul>
                 <li> Ze vindt het goed dat sociale media bestaat. Ze kan veel contacten leggen en haar leven delen met anderen. </li>
                 <li> Verslaafd aan sociale media. Ze zit constant op haar gsm zelfs tijdens de les </li>
             </ul>
-
-        Scenario:
+        <h5><div class="highlight"> Scenario: </div></h5>
           Ik ben ingelogd als student op de app. Stel ik wil naar de vraagjes gaan van een bepaalde kamer. Op dat moment ben ik nog in een andere kamer.  Er verschijnt een slotje bij. Om dit te kunnen ontgrendelen moet ik eerst naar de juiste plek gaan. <br>
-
-        Beleving <br>
-        De fase <br>
-              	
-        Acties/taken:
+        <div class="highlight"> Acties/taken: </div>
             <ul>
                 <li> Zoveel mogelijk vraagjes juist beantwoorden zodat ze een hoge score behaalt. </li>
             </ul>
-
-        Gedachten <br>
- 
-        Instelling en emoties:
+        <div class="highlight"> Gedachten </div>
             <ul>
-                <li> Verliest snel haar aandacht </li>
+                <li> Museums zijn saai, ik wil liever spelletjes spelen op de computer. </li>
+                <li> Ik snap niet wat museums ons kunnen bijleren. </li>
             </ul>
- 
-        Inzichten: <br>
-        Opportuniteiten:
+        <div class="highlight"> Instelling en emoties: </div>
+            <ul>
+                <li> Ze verliest snel haar aandacht </li>
+                <li> Ze wilt haar tijd zoveel mogelijk spenderen met vriendinnen </li>
+            </ul>
+        <div class="highlight"> Opportuniteiten: </div>
         <ul>
-            <li> Vraagjes </li>
-            <li> Audioguide </li>
+            <li> Vraagjes rond het museum en de collecties.</li>
+            <li> Audioguide om het interessanter te maken en leuker om dingen bij te leren. </li>
         </ul>
- 
-        Pijnpunten:
+        <div class="highlight"> Pijnpunten: </div>
             <ul>
                 <li> Na een tijdje wordt het vermoeiend </li>
                 <li> Veel informatie </li>

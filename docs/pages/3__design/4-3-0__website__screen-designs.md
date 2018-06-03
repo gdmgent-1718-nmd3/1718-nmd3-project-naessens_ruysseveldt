@@ -6,7 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-
-<div class="container">
-    <img src="{{ site.baseurl }}/images/WEBSITE.jpg" alt="Screen Design Website"> 
-</div>
+<img src="{{ site.baseurl }}/images/WEBSITE.jpg" alt="Screen Design Website" class="website"> 
