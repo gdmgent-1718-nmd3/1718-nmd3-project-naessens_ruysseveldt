@@ -5,3 +5,11 @@
 @import
   "app/main",
   "production/main";
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+h1,h2,h3,p,li{
+  font-family: "Quicksand";
+}
+
+

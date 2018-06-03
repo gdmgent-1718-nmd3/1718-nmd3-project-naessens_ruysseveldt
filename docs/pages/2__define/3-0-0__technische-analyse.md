@@ -9,6 +9,7 @@ title: Technische Analyse
 
 <div class="container">
     <h2> Technische analyse </h2>
+        <img src="{{ site.baseurl }}/images/Applewatch.jpg" alt="Apple Watch Series 3" width="100%">
             <h3> Smartwatch: Apple Watch Series 3 </h3>
                 <p> <b> Gebruik: </b>
                     <ul>
@@ -22,7 +23,6 @@ title: Technische Analyse
                         <li> Alarm </li>
                         <li> Foto’s en video’s </li>
                     </ul>
- 
                     <b> Technische mogelijkheden: </b>
                     <ul>
                         <li> Ingebouwde barometer </li>
@@ -43,7 +43,6 @@ title: Technische Analyse
                         <li> Ingebouwde batterij (18u-49u) + magnetische oplaadkabel </li>
                         <li> Prijs: rond 400 euro (hangt af van schermhoogte) </li>
                     </ul>
- 
                 <b> Ontwerprichtlijnen: </b>
                     <ul>
                         <li> Scherm is rechthoekig (klein scherm)</li>
@@ -54,7 +53,7 @@ title: Technische Analyse
                         <li>Glazen scherm (reflecteert waardoor zichtbaarheid verminderd wordt)</li>
                     </ul>
                 </p>
-
+            <img src="{{ site.baseurl }}/images/Iphone6.jpg" alt="iPhone 6" width="100%">
             <h3> Smartphone: iPhone 6s </h3>
             <p> <b> Gebruik </b>
                 <ul>
@@ -67,7 +66,6 @@ title: Technische Analyse
                     <li> Mails </li>
                     <li> Safari </li>
                 </ul>
-
                <b> Technische mogelijkheden: </b>
                     <ul>
                         <li> Afmeting scherm: 4.7 inch </li>
@@ -79,14 +77,11 @@ title: Technische Analyse
                         <li> Retina-scherm </li>
                         <li> Verbeterde accu </li>
                     </ul>
- 
                 <b> Ontwerprichtlijnen: </b>
                     <ul>
                         <li> Verschillende beschermhoesjes (duurzaam materiaal) </li>
                         <li> Groter scherm dan voorgangers </li>
                     </ul>
- 
                 <i> Bron: https://developer.apple.com/videos/play/fall2017/801/ </i>
-
             </p>
     </div>

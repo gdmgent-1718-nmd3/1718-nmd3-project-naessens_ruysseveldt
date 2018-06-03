@@ -19,6 +19,8 @@ title: Analyse
             <ul>
                  <li> Usefulness:
                 Onze app is een soort game waarbij leerlingen aan de hand van vragen over het museum punten verdienen. De punten worden bijgehouden op een scorebord waar de leerkracht ook toegang tot heeft. Onze app maakt het leuker om dingen bij te leren. Dit is dan vooral gericht naar kinderen. Er is namelijk veel informatie in het museum. Hierdoor is het moeilijk om alle informatie op te nemen. Het is ook saai om dit allemaal te lezen in 1 bezoek.
+
+                
                 </li>
  
                  <li> Usability:

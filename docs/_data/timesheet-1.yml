@@ -2,27 +2,61 @@
 # ║ Student 1 ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
+# ╔═══════════╗
+# ║ Student 2 ║
+# ╚═══════════╝
+# Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Analyse
+-
+  time: 
+  task: Journey maps
+-
+  time: 
+  task: Concept
+-
+  time: 
+  task: Ideaboard
+-
+  time: 4.50
+  task: Style Tiles
+-
+  time: 
+  task: Tekenen figuurtjes en attributen
+-
+  time: 
+  task: Wireflow smartwatch
+-
+  time: 
+  task: Paper prototype smartwatch
+-
+  time: 
+  task: Gebruikerstesten
 -
   time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  task: Visual designs Smartwatch
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Wireflow Smartphone
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Visual designs Smartphone
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Sitemap
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Wireframes Website
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Visual designs website
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 
+  task: Prototype website
+-
+  time: 
+  task: Digital UI Style Guide-
+- 
+  time: 
+  task: Productiedossier
