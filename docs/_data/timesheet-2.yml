@@ -3,56 +3,56 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 
+  time: 4.00
   task: Analyse
 -
-  time: 
+  time: 4.50
   task: Journey maps
 -
-  time: 
+  time: 2.00
   task: Concept
 -
-  time: 
+  time: 2.00
   task: Ideaboard
 -
   time: 4.50
   task: Style Tiles
 -
-  time: 
+  time: 2.00
   task: Tekenen figuurtjes en attributen
 -
-  time: 
+  time: 2.00
   task: Wireflow smartwatch
 -
-  time: 0.5
+  time: 1.5
   task: Paper prototype smartwatch
 -
   time: 0.75
   task: Gebruikerstesten
 -
-  time: 0.5
+  time: 2.5
   task: Visual designs Smartwatch
 -
-  time: 0.5
+  time: 3.0
   task: Wireflow Smartphone
 -
-  time: 0.5
+  time: 2.0
   task: Visual designs Smartphone
 -
-  time: 
+  time: 1.0
   task: Sitemap
 -
-  time: 
+  time: 1.0
   task: Wireframes Website
 -
-  time: 
+  time: 2.5
   task: Visual designs website
 -
-  time: 
+  time: 0.5
   task: Prototype website
 -
-  time: 
-  task: Digital UI Style Guide-
+  time: 2.5
+  task: Digital UI Style Guide
 - 
-  time: 1.00
+  time: 5.00
   task: Productiedossier

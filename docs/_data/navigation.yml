@@ -17,8 +17,8 @@
   # permalink: define/
   children:
     -
-      title: Planning
-      permalink: define/planning/
+      title: Tekeningen
+      permalink: define/tekeningen/
     -
       title: Analyse
       permalink: define/analyse/
