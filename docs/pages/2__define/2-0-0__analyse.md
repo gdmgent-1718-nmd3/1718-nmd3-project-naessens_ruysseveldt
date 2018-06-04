@@ -14,31 +14,22 @@ title: Analyse
         <b> Bezoeker 4: </b> Ik bezoek bijna elke maand een museum. Ik leer er altijd veel uit en ik vind het vooral interessant om design museums te bezoeken. Voor mij is het niet storend als er veel tekst uithangt in het museum. Ik vind dat juist handig omdat je zelf kiest waar je meer over wilt weten. <br>
         <b> Bezoeker 5: </b> Museums zijn heel interessant voor studenten. Ze kunnen erdoor dingen bijleren op een interactieve manier. Ik vind het ook een leuke uitstap om te maken met mijn leerlingen. Het is ook eens iets anders dan gewoon lesgeven in de klas. <br> 
         </p>
-
        <p><b> Uitgangspunten: </b>
             <ul>
                  <li> Usefulness:
                 Onze app is een soort game waarbij leerlingen aan de hand van vragen over het museum punten verdienen. De punten worden bijgehouden op een scorebord waar de leerkracht ook toegang tot heeft. Onze app maakt het leuker om dingen bij te leren. Dit is dan vooral gericht naar kinderen. Er is namelijk veel informatie in het museum. Hierdoor is het moeilijk om alle informatie op te nemen. Het is ook saai om dit allemaal te lezen in 1 bezoek.
-
-                
                 </li>
- 
                  <li> Usability:
                  Een QR-code kan worden ingescand waarna de informatie direct op je smartphone/smartwatch komt. Vervolgens zal de informatie worden afgespeeld via de koptelefoon. Deze codes vind je op bepaalde plaatsen in het museum. De leerkracht kan ook een speciale code krijgen om de punten van zijn leerlingen te zien. 
                 </li>
- 
                 <li> Desirability:
                 Verschillende karakters zullen de informatie zeggen. De personages hebben ook een samenhang met elkaar. Dit zorgt ervoor dat er een soort verhaaltje wordt gecreërd. Voor het thema wouden we graag iets doen in de sfeer van piraten/haven. Dit zouden zelf-getekende figuren zijn. Hierdoor is het bezoek voor de kinderen een veel leukere ervaring.
                 </li>
- 
                 <li> Credibility:
                 We proberen een goed overzicht te creeëren zodat deze app voor de gebruiker gemakkelijker is. Ook willen we werken met een stem die alle informatie verteld. Om deze informatie te horen, gebruikt de bezoeker een koptelefoon. Deze krijgen ze in het museum zelf. De koptelefoon kan worden hergebruikt en doorgegeven aan de volgende bezoeker. Dit is hygienischer dan oortjes. Er zouden zo’n 100 stuks voorzien worden.
                  </li>
              </ul>
- 
  <p> De smartphone en smartwatch zijn verbonden met elkaar. De resultaten kunnnen op beide bekeken worden. Zowel op de smartwatch als op de smartphone verschijnen de figuurtjes. Tijdens het horen van de informatie, zie je het figuurtje mee bewegen zodat het lijkt of deze tot leven komt. Deze geeft je informatie. <br> Door het ingeven van een code die je in het museum krijgt, kunnen leerlingen en leerkrachten zich aanmelden op hetzelfde platform. Leekrachten kunnen hierdoor ook toegang krijgen tot de resultaten van hun leerlingen. </p>
-            
-</div>
 
 
 

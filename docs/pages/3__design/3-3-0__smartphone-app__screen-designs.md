@@ -8,6 +8,6 @@ title: Screen Designs
 ---
 
 <div class="container">
-    <a href="https://xd.adobe.com/view/40410022-5086-4471-691e-d67f0a073f73-3670/?fullscreen">Adobe XD</a>
+    <a href="https://xd.adobe.com/view/40410022-5086-4471-691e-d67f0a073f73-3670/?fullscreen">Adobe XD (cmd + klik op link)</a>
     <img src="{{ site.baseurl }}/images/ScreenDesignSmartphone.png" alt="Screen Design Smartphone" width="200%">
 </div>

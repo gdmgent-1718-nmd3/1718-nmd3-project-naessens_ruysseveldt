@@ -16,16 +16,16 @@
   time: 2.00
   task: Concept
 -
-  time: 2.00
+  time: 3.00
   task: Ideaboard
 -
   time: 4.50
   task: Style Tiles
 -
-  time: 8.00
+  time: 12.00
   task: Tekenen figuurtjes en attributen
 -
-  time: 2.00
+  time: 3.00
   task: Wireflow smartwatch
 -
   time: 1.5
@@ -34,28 +34,25 @@
   time: 0.75
   task: Gebruikerstesten
 -
-  time: 2.5
+  time: 3.00
   task: Visual designs Smartwatch
 -
   time: 3.0
   task: Wireflow Smartphone
 -
-  time: 2.0
+  time: 6.0
   task: Visual designs Smartphone
 -
   time: 1.0
   task: Sitemap
 -
-  time: 1.0
+  time: 3.0
   task: Wireframes Website
 -
   time: 2.5
   task: Visual designs website
 -
-  time: 0.5
-  task: Prototype website
--
-  time: 2.5
+  time: 1.0
   task: Digital UI Style Guide
 - 
   time: 2.00
